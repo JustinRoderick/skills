@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "branded-types": {
+      "source": "iaskshahram/skills",
+      "sourceType": "github",
+      "computedHash": "d76cf9de670560a3d57b0fc674e49140aa975c21adaffef6755c199d843e1af2"
+    },
     "convex": {
       "source": "waynesutton/convexskills",
       "sourceType": "github",
